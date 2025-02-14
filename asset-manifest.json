@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/imdouglasmahleko.github.io/static/css/main.825be267.css",
+    "main.js": "/imdouglasmahleko.github.io/static/js/main.1acffc56.js",
+    "static/media/house1.png": "/imdouglasmahleko.github.io/static/media/house1.9d26a6c99917fc91d79b.png",
+    "static/media/house2.png": "/imdouglasmahleko.github.io/static/media/house2.b4f22a932ab22c9d0527.png",
+    "static/media/dougy.jpg": "/imdouglasmahleko.github.io/static/media/dougy.b2d496a1a8fbd45c98bb.jpg",
+    "static/media/technician.jpeg": "/imdouglasmahleko.github.io/static/media/technician.8cb732a5c98c0167007a.jpeg",
+    "index.html": "/imdouglasmahleko.github.io/index.html",
+    "main.825be267.css.map": "/imdouglasmahleko.github.io/static/css/main.825be267.css.map",
+    "main.1acffc56.js.map": "/imdouglasmahleko.github.io/static/js/main.1acffc56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.825be267.css",
+    "static/js/main.1acffc56.js"
+  ]
+}
